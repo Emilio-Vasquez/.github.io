@@ -36,7 +36,7 @@ title: Emilio Alexander Vasquez
   <div class="card">
     <h3>Bridge Competition Dashboard</h3>
     <p>Real-time scoring & visualization used during UCNJ’s Bridge Competition (Truss & Drawbridge).</p>
-    <span class="badge">Flask</span><span class="badge">JS</span><span class="badge">JSON</span>
+    <span class="badge">HTML & CSS</span><span class="badge">JS</span><span class="badge">JSON</span>
     <p><img src="/assets/bridgeCompetition.gif" alt="Bridge Building Competition" /></p>
     <p><a href="https://github.com/Emilio-Vasquez/Bridge-Competition-Dashboard">Repository</a></p>
   </div>
@@ -45,6 +45,7 @@ title: Emilio Alexander Vasquez
     <h3>RoseTTAFold-HPC</h3>
     <p>Reproducible deployment on Kean HPC without sudo; GPU-optimized protein-structure workflows.</p>
     <span class="badge">HPC</span><span class="badge">GPU</span><span class="badge">Bioinformatics</span>
+    <p><img src="/assets/ComparingPDBs.png" alt="PDBs" /></p>
     <p><a href="https://github.com/Emilio-Vasquez/RoseTTAFold-HPC">Repository</a></p>
   </div>
 
@@ -52,6 +53,7 @@ title: Emilio Alexander Vasquez
     <h3>Abstractive Text Summarization</h3>
     <p>Benchmarking GPT-3.5, BART, and T5 on CNN/DailyMail; quality vs. efficiency.</p>
     <span class="badge">Transformers</span><span class="badge">NLP</span>
+    <p><img src="/assets/RougeL-f1.png" alt="ROUGE L Score" /></p>
     <p><a href="https://github.com/Emilio-Vasquez/Abstractive-Text-Summarization-Tool-Transformers-">Repository</a></p>
   </div>
 
@@ -59,6 +61,7 @@ title: Emilio Alexander Vasquez
     <h3>Stocks: LSTM · Transformers · Federated</h3>
     <p>Deep time-series models combining sentiment and federated learning for forecasting.</p>
     <span class="badge">Time-series</span><span class="badge">Deep Learning</span>
+    <p><img src="/assets/full-stock-app.png" alt="Forecasting Markets" /></p>
     <p><a href="https://github.com/Emilio-Vasquez/Forecasting-Stocks_LSTM-Sentiment-Transformer-Federated-Learning">Repository</a></p>
   </div>
 
