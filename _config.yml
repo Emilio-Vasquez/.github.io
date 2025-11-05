@@ -1,10 +1,8 @@
 title: Emilio Alexander Vasquez
-description: Applied research at the intersection of AI, secure systems, and educational software.
+description: Applied AI & systems — cloud, secure backends, and research-grade educational tools.
 theme: jekyll-theme-minimal
 logo: /assets/avatar.png
 show_downloads: false
-github:
-  is_project_page: false
 header_pages:
   - index.md
   - projects.md
