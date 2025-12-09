@@ -26,6 +26,19 @@ title: Emilio Alexander Vasquez
 <div class="grid">
 
   <div class="card">
+    <h3>Candace: Retrieval-Augmented LLM Academic Assistant</h3>
+    <p>Fully local AI assistant simulating Canvas support, using hybrid SQL + RAG retrieval, FAISS, and GPU-accelerated Llama 3.1 for real-time academic reasoning.</p>
+    <span class="badge">Flask</span>
+    <span class="badge">MySQL</span>
+    <span class="badge">FAISS</span>
+    <span class="badge">Llama 3.1</span>
+    <span class="badge">CUDA</span>
+    <span class="badge">RAG</span>
+    <p><img src="/assets/Chatbot-responses.gif" alt="Candace AI Assistant Demo" /></p>
+    <p><a href="https://github.com/Emilio-Vasquez/Candace-AI-Assistant">Repository</a></p>
+  </div>
+  
+  <div class="card">
     <h3>Students Technical Questions App</h3>
     <p>Flask + MySQL + Docker platform for Python/SQL practice with sandboxed grading and learning analytics.</p>
     <span class="badge">Flask</span><span class="badge">MySQL</span><span class="badge">Docker</span>
