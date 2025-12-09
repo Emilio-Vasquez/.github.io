@@ -3,6 +3,11 @@ layout: default
 title: Projects
 ---
 
+## Candace: Retrieval-Augmented Academic LLM Assistant
+- **What it is:** a fully local Canvas-style AI assistant using hybrid SQL + RAG retrieval, FAISS embeddings, and GPU-accelerated Llama 3.1 for real-time academic reasoning.
+- **Why it matters:** FERPA-aligned architecture, deterministic gradebook accuracy through SQL grounding, and 14.4× GPU speedup for responsive educational support systems.
+- **Link:** <https://github.com/Emilio-Vasquez/Candace-AI-Assistant>
+
 ## Students Technical Questions App
 - **What it is:** secure code-evaluation & learning analytics platform (Flask, MySQL, Docker).  
 - **Why it matters:** research-grade infrastructure for CS education and sandboxed execution.  
